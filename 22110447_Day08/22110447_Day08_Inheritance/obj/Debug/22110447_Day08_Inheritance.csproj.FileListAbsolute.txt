@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\22110447_Day08_Inheritance\bin\Debug\22110447_Day08_Inheritance.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\22110447_Day08_Inheritance\bin\Debug\22110447_Day08_Inheritance.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\22110447_Day08_Inheritance\bin\Debug\22110447_Day08_Inheritance.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\22110447_Day08_Inheritance\obj\Debug\22110447_Day08_Inheritance.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\22110447_Day08_Inheritance\obj\Debug\_22110447_Day08_Inheritance.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\22110447_Day08_Inheritance\obj\Debug\22110447_Day08_Inheritance.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\22110447_Day08_Inheritance\obj\Debug\22110447_Day08_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\22110447_Day08_Inheritance\obj\Debug\22110447_Day08_Inheritance.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\22110447_Day08_Inheritance\obj\Debug\22110447_Day08_Inheritance.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\22110447_Day08_Inheritance\obj\Debug\_22110447_Day08_Inheritance.Form1.resources

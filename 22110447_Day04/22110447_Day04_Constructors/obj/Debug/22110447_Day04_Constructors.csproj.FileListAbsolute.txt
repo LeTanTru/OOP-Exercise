@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constructors\bin\Debug\22110447_Day04_Constructors.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constructors\bin\Debug\22110447_Day04_Constructors.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constructors\bin\Debug\22110447_Day04_Constructors.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constructors\obj\Debug\22110447_Day04_Constructors.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constructors\obj\Debug\22110447_Day04_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constructors\obj\Debug\22110447_Day04_Constructors.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constructors\obj\Debug\22110447_Day04_Constructors.pdb

@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_StaticMethods\bin\Debug\22110447_Day04_StaticMethods.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_StaticMethods\bin\Debug\22110447_Day04_StaticMethods.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_StaticMethods\bin\Debug\22110447_Day04_StaticMethods.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_StaticMethods\obj\Debug\22110447_Day04_StaticMethods.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_StaticMethods\obj\Debug\22110447_Day04_StaticMethods.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_StaticMethods\obj\Debug\22110447_Day04_StaticMethods.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_StaticMethods\obj\Debug\22110447_Day04_StaticMethods.pdb

@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\PictureBox\obj\Debug\PictureBox.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\PictureBox\obj\Debug\PictureBox.Form1.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\PictureBox\obj\Debug\PictureBox.pdb

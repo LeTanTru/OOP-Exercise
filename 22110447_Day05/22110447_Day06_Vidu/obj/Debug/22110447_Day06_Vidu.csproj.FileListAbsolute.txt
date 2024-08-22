@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Vidu\bin\Debug\22110447_Day06_Vidu.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Vidu\bin\Debug\22110447_Day06_Vidu.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Vidu\bin\Debug\22110447_Day06_Vidu.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Vidu\obj\Debug\22110447_Day06_Vidu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Vidu\obj\Debug\22110447_Day06_Vidu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Vidu\obj\Debug\22110447_Day06_Vidu.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Vidu\obj\Debug\22110447_Day06_Vidu.pdb

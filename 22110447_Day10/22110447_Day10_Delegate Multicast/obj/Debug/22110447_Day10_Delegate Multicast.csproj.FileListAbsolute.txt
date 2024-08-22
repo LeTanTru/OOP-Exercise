@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegate Multicast\bin\Debug\22110447_Day10_Delegate Multicast.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegate Multicast\bin\Debug\22110447_Day10_Delegate Multicast.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegate Multicast\bin\Debug\22110447_Day10_Delegate Multicast.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegate Multicast\obj\Debug\22110447_Day10_Delegate Multicast.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegate Multicast\obj\Debug\22110447_Day10_Delegate Multicast.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegate Multicast\obj\Debug\22110447_Day10_Delegate Multicast.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegate Multicast\obj\Debug\22110447_Day10_Delegate Multicast.pdb

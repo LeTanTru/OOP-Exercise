@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Predicate\bin\Debug\22110447_Day10_Generic Delegate  Predicate.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Predicate\bin\Debug\22110447_Day10_Generic Delegate  Predicate.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Predicate\bin\Debug\22110447_Day10_Generic Delegate  Predicate.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Predicate\obj\Debug\22110447_Day10_Generic Delegate  Predicate.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Predicate\obj\Debug\22110447_Day10_Generic Delegate  Predicate.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Predicate\obj\Debug\22110447_Day10_Generic Delegate  Predicate.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Predicate\obj\Debug\22110447_Day10_Generic Delegate  Predicate.pdb

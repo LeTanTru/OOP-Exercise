@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_TryParse\bin\Debug\22110447_Day04_TryParse.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_TryParse\bin\Debug\22110447_Day04_TryParse.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_TryParse\bin\Debug\22110447_Day04_TryParse.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_TryParse\obj\Debug\22110447_Day04_TryParse.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_TryParse\obj\Debug\22110447_Day04_TryParse.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_TryParse\obj\Debug\22110447_Day04_TryParse.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_TryParse\obj\Debug\22110447_Day04_TryParse.pdb

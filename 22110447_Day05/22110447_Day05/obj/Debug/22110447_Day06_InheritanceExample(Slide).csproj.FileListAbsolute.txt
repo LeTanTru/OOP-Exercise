@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05\bin\Debug\22110447_Day05.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05\bin\Debug\22110447_Day05.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05\bin\Debug\22110447_Day05.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05\obj\Debug\22110447_Day06_InheritanceExample(Slide).csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05\obj\Debug\_22110447_Day05.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05\obj\Debug\22110447_Day06_InheritanceExample(Slide).csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05\obj\Debug\22110447_Day06_InheritanceExample(Slide).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05\obj\Debug\22110447_Day05.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05\obj\Debug\22110447_Day05.pdb

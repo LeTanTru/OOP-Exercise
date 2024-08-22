@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\Inheritance\obj\Debug\Inheritance.Form1.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Lessons\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.cache

@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Classes\obj\Debug\22110447_Day09_Generic Classes.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Classes\obj\Debug\22110447_Day09_Generic Classes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Classes\bin\Debug\22110447_Day09_Generic Classes.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Classes\bin\Debug\22110447_Day09_Generic Classes.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Classes\bin\Debug\22110447_Day09_Generic Classes.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Classes\obj\Debug\22110447_Day09_Generic Classes.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Classes\obj\Debug\22110447_Day09_Generic Classes.pdb

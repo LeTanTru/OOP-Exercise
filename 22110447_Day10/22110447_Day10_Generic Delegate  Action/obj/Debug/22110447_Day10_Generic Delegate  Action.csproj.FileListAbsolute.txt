@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Action\bin\Debug\22110447_Day10_Generic Delegate  Action.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Action\bin\Debug\22110447_Day10_Generic Delegate  Action.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Action\bin\Debug\22110447_Day10_Generic Delegate  Action.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Action\obj\Debug\22110447_Day10_Generic Delegate  Action.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Action\obj\Debug\22110447_Day10_Generic Delegate  Action.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Action\obj\Debug\22110447_Day10_Generic Delegate  Action.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Generic Delegate  Action\obj\Debug\22110447_Day10_Generic Delegate  Action.pdb

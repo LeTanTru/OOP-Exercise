@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Stack\bin\Debug\22110447_Day09_Non-generic Stack.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Stack\bin\Debug\22110447_Day09_Non-generic Stack.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Stack\bin\Debug\22110447_Day09_Non-generic Stack.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Stack\obj\Debug\22110447_Day09_Non-generic Stack.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Stack\obj\Debug\22110447_Day09_Non-generic Stack.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Stack\obj\Debug\22110447_Day09_Non-generic Stack.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Stack\obj\Debug\22110447_Day09_Non-generic Stack.pdb

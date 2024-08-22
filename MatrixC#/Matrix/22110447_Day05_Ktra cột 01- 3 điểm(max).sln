@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixWinform", "MatrixWinform.csproj", "{FE7DA639-A9B8-4F44-9E8E-1E2B7467EC1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixClassLibrary", "..\MatrixClassLibrary\MatrixClassLibrary.csproj", "{B94FD0BE-A1FD-4DCC-99A6-BA660362EE0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7DA639-A9B8-4F44-9E8E-1E2B7467EC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7DA639-A9B8-4F44-9E8E-1E2B7467EC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7DA639-A9B8-4F44-9E8E-1E2B7467EC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7DA639-A9B8-4F44-9E8E-1E2B7467EC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94FD0BE-A1FD-4DCC-99A6-BA660362EE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94FD0BE-A1FD-4DCC-99A6-BA660362EE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94FD0BE-A1FD-4DCC-99A6-BA660362EE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94FD0BE-A1FD-4DCC-99A6-BA660362EE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AFF05BD-4D8E-41BE-ABC0-36A3DD1B6AD4}
+	EndGlobalSection
+EndGlobal

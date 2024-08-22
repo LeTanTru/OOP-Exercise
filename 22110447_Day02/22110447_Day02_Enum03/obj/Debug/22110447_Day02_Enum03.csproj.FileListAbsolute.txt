@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_Enum03\bin\Debug\22110447_Day02_Enum03.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_Enum03\bin\Debug\22110447_Day02_Enum03.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_Enum03\bin\Debug\22110447_Day02_Enum03.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_Enum03\obj\Debug\22110447_Day02_Enum03.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_Enum03\obj\Debug\22110447_Day02_Enum03.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_Enum03\obj\Debug\22110447_Day02_Enum03.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_Enum03\obj\Debug\22110447_Day02_Enum03.pdb

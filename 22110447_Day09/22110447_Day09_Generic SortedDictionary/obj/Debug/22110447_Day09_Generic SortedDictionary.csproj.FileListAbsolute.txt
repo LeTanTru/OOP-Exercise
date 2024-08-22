@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic SortedDictionary\bin\Debug\22110447_Day09_Generic SortedDictionary.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic SortedDictionary\bin\Debug\22110447_Day09_Generic SortedDictionary.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic SortedDictionary\bin\Debug\22110447_Day09_Generic SortedDictionary.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic SortedDictionary\obj\Debug\22110447_Day09_Generic SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic SortedDictionary\obj\Debug\22110447_Day09_Generic SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic SortedDictionary\obj\Debug\22110447_Day09_Generic SortedDictionary.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic SortedDictionary\obj\Debug\22110447_Day09_Generic SortedDictionary.pdb

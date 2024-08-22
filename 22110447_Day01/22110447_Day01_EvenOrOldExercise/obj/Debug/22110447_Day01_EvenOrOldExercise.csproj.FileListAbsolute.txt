@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_EvenOrOldExercise\bin\Debug\22110447_Day01_EvenOrOldExercise.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_EvenOrOldExercise\bin\Debug\22110447_Day01_EvenOrOldExercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_EvenOrOldExercise\bin\Debug\22110447_Day01_EvenOrOldExercise.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_EvenOrOldExercise\obj\Debug\22110447_Day01_EvenOrOldExercise.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_EvenOrOldExercise\obj\Debug\22110447_Day01_EvenOrOldExercise.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_EvenOrOldExercise\obj\Debug\22110447_Day01_EvenOrOldExercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_EvenOrOldExercise\obj\Debug\22110447_Day01_EvenOrOldExercise.pdb

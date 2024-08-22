@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Cancelling Tasks\bin\Debug\22110447_Day11_Cancelling Tasks.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Cancelling Tasks\bin\Debug\22110447_Day11_Cancelling Tasks.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Cancelling Tasks\bin\Debug\22110447_Day11_Cancelling Tasks.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Cancelling Tasks\obj\Debug\22110447_Day11_Cancelling Tasks.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Cancelling Tasks\obj\Debug\22110447_Day11_Cancelling Tasks.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Cancelling Tasks\obj\Debug\22110447_Day11_Cancelling Tasks.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Cancelling Tasks\obj\Debug\22110447_Day11_Cancelling Tasks.pdb

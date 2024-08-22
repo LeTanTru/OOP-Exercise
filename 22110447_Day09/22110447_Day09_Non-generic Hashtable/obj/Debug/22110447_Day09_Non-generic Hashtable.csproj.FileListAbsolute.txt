@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Hashtable\bin\Debug\22110447_Day09_Non-generic Hashtable.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Hashtable\bin\Debug\22110447_Day09_Non-generic Hashtable.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Hashtable\bin\Debug\22110447_Day09_Non-generic Hashtable.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Hashtable\obj\Debug\22110447_Day09_Non-generic Hashtable.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Hashtable\obj\Debug\22110447_Day09_Non-generic Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Hashtable\obj\Debug\22110447_Day09_Non-generic Hashtable.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic Hashtable\obj\Debug\22110447_Day09_Non-generic Hashtable.pdb

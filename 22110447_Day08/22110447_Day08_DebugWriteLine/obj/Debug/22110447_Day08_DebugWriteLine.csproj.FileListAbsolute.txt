@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DebugWriteLine\bin\Debug\22110447_Day08_DebugWriteLine.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DebugWriteLine\bin\Debug\22110447_Day08_DebugWriteLine.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DebugWriteLine\bin\Debug\22110447_Day08_DebugWriteLine.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DebugWriteLine\obj\Debug\22110447_Day08_DebugWriteLine.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DebugWriteLine\obj\Debug\22110447_Day08_DebugWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DebugWriteLine\obj\Debug\22110447_Day08_DebugWriteLine.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DebugWriteLine\obj\Debug\22110447_Day08_DebugWriteLine.pdb

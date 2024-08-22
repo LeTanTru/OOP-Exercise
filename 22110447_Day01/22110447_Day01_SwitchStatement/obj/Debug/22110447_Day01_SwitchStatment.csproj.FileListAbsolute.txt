@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_SwitchStatment\bin\Debug\22110447_Day01_SwitchStatment.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_SwitchStatment\bin\Debug\22110447_Day01_SwitchStatment.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_SwitchStatment\bin\Debug\22110447_Day01_SwitchStatment.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_SwitchStatment\obj\Debug\22110447_Day01_SwitchStatment.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_SwitchStatment\obj\Debug\22110447_Day01_SwitchStatment.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_SwitchStatment\obj\Debug\22110447_Day01_SwitchStatment.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_SwitchStatment\obj\Debug\22110447_Day01_SwitchStatment.pdb

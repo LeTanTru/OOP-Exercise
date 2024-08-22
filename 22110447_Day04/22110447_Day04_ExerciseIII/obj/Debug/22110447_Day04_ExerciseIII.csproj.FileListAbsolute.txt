@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_ExerciseIII\bin\Debug\22110447_Day04_ExerciseIII.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_ExerciseIII\bin\Debug\22110447_Day04_ExerciseIII.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_ExerciseIII\bin\Debug\22110447_Day04_ExerciseIII.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_ExerciseIII\obj\Debug\22110447_Day04_ExerciseIII.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_ExerciseIII\obj\Debug\22110447_Day04_ExerciseIII.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_ExerciseIII\obj\Debug\22110447_Day04_ExerciseIII.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_ExerciseIII\obj\Debug\22110447_Day04_ExerciseIII.pdb

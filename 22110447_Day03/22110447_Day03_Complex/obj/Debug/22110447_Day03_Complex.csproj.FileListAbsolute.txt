@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Complex\bin\Debug\22110447_Day03_Complex.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Complex\bin\Debug\22110447_Day03_Complex.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Complex\bin\Debug\22110447_Day03_Complex.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Complex\obj\Debug\22110447_Day03_Complex.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Complex\obj\Debug\22110447_Day03_Complex.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Complex\obj\Debug\22110447_Day03_Complex.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Complex\obj\Debug\22110447_Day03_Complex.pdb

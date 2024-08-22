@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_ViduSGK\bin\Debug\22110447_Day06_ViduSGK.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_ViduSGK\bin\Debug\22110447_Day06_ViduSGK.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_ViduSGK\bin\Debug\22110447_Day06_ViduSGK.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_ViduSGK\obj\Debug\22110447_Day06_ViduSGK.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_ViduSGK\obj\Debug\22110447_Day06_ViduSGK.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_ViduSGK\obj\Debug\22110447_Day06_ViduSGK.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_ViduSGK\obj\Debug\22110447_Day06_ViduSGK.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_ViduSGK\obj\Debug\_22110447_Day06_ViduSGK.Form1.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_ViduSGK\obj\Debug\22110447_Day06_ViduSGK.csproj.GenerateResource.cache

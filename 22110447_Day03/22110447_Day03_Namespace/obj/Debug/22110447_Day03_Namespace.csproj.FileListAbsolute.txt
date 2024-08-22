@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Namespace\bin\Debug\22110447_Day03_Namespace.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Namespace\bin\Debug\22110447_Day03_Namespace.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Namespace\bin\Debug\22110447_Day03_Namespace.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Namespace\obj\Debug\22110447_Day03_Namespace.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Namespace\obj\Debug\22110447_Day03_Namespace.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Namespace\obj\Debug\22110447_Day03_Namespace.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Namespace\obj\Debug\22110447_Day03_Namespace.pdb

@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Stack\bin\Debug\22110447_Day09_Generic Stack.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Stack\bin\Debug\22110447_Day09_Generic Stack.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Stack\bin\Debug\22110447_Day09_Generic Stack.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Stack\obj\Debug\22110447_Day09_Generic Stack.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Stack\obj\Debug\22110447_Day09_Generic Stack.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Stack\obj\Debug\22110447_Day09_Generic Stack.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Stack\obj\Debug\22110447_Day09_Generic Stack.pdb

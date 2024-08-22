@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Assignment-No.15\bin\Debug\22110447_Day09_Assignment-No.15.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Assignment-No.15\bin\Debug\22110447_Day09_Assignment-No.15.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Assignment-No.15\bin\Debug\22110447_Day09_Assignment-No.15.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Assignment-No.15\obj\Debug\22110447_Day09_Assignment-No.15.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Assignment-No.15\obj\Debug\22110447_Day09_Assignment-No.15.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Assignment-No.15\obj\Debug\22110447_Day09_Assignment-No.15.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Assignment-No.15\obj\Debug\22110447_Day09_Assignment-No.15.pdb

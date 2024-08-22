@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_LINQ Queries with Methods\bin\Debug\22110447_Day11_LINQ Queries with Methods.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_LINQ Queries with Methods\bin\Debug\22110447_Day11_LINQ Queries with Methods.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_LINQ Queries with Methods\bin\Debug\22110447_Day11_LINQ Queries with Methods.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_LINQ Queries with Methods\obj\Debug\22110447_Day11_LINQ Queries with Methods.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_LINQ Queries with Methods\obj\Debug\22110447_Day11_LINQ Queries with Methods.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_LINQ Queries with Methods\obj\Debug\22110447_Day11_LINQ Queries with Methods.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_LINQ Queries with Methods\obj\Debug\22110447_Day11_LINQ Queries with Methods.pdb

@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixC#\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixC#\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixC#\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixC#\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixC#\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\MatrixC#\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb

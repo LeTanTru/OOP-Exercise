@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Employee\bin\Debug\22110447_Day03_Employee.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Employee\bin\Debug\22110447_Day03_Employee.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Employee\bin\Debug\22110447_Day03_Employee.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Employee\obj\Debug\22110447_Day03_Employee.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Employee\obj\Debug\22110447_Day03_Employee.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Employee\obj\Debug\22110447_Day03_Employee.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_Employee\obj\Debug\22110447_Day03_Employee.pdb

@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\GraphicsTest\bin\Debug\GraphicsTest.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\GraphicsTest\bin\Debug\GraphicsTest.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\GraphicsTest\bin\Debug\GraphicsTest.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\GraphicsTest\obj\Debug\GraphicsTest.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\GraphicsTest\obj\Debug\GraphicsTest.FrmMain.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\GraphicsTest\obj\Debug\GraphicsTest.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\GraphicsTest\obj\Debug\GraphicsTest.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\GraphicsTest\obj\Debug\GraphicsTest.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\GraphicsTest\obj\Debug\GraphicsTest.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\GraphicsTest\obj\Debug\GraphicsTest.pdb

@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\bin\Debug\FinalProjectOOP.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\bin\Debug\FinalProjectOOP.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\bin\Debug\FinalProjectOOP.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\obj\Debug\FinalProjectOOP.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\obj\Debug\FinalProjectOOP.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\obj\Debug\FinalProjectOOP.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\obj\Debug\FinalProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\obj\Debug\FinalProjectOOP.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\obj\Debug\FinalProjectOOP.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\obj\Debug\FinalProjectOOP.csproj.CopyComplete
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\obj\Debug\FinalProjectOOP.Forms.frmMain.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FinalProjectOOP\obj\Debug\FinalProjectOOP.Forms.frmLogin.resources

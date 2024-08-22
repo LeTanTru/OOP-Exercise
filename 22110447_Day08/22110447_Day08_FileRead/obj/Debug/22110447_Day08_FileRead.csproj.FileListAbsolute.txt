@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_FileRead\bin\Debug\22110447_Day08_FileRead.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_FileRead\bin\Debug\22110447_Day08_FileRead.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_FileRead\bin\Debug\22110447_Day08_FileRead.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_FileRead\obj\Debug\22110447_Day08_FileRead.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_FileRead\obj\Debug\22110447_Day08_FileRead.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_FileRead\obj\Debug\22110447_Day08_FileRead.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_FileRead\obj\Debug\22110447_Day08_FileRead.pdb

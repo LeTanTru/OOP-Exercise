@@ -1,0 +1,234 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _22110447_Day09_PhoneShop {
+    public partial class Form1 : Form {
+        public Form1() {
+            InitializeComponent();
+        }
+        DataTable dataTable = new DataTable();
+
+        List<string> columnsTitles = new List<string>() {
+            "Device Name",
+            "Manufacture Year",
+            "Color",
+            "Serie No.",
+            "Producer",
+            "Price",
+            "Address",
+            "Contact Number"
+        };
+
+        public DataTable ReadTextFile(string filepath, int numberOfColumns) {
+            DataTable dtTextFile = new DataTable();
+
+            for(int col = 0; col < numberOfColumns; col++)
+                dtTextFile.Columns.Add(new DataColumn("Column" + (col + 1).ToString()));
+
+
+            string[] readTextfile = File.ReadAllLines(filepath);
+
+
+            foreach(string line in readTextfile) {
+                var cols = line.Split('\t');
+                DataRow dtrow = dtTextFile.NewRow();
+
+                for(int cIndex = 0; cIndex < 8; cIndex++) {
+                    dtrow[cIndex] = cols[cIndex];
+                }
+
+                dtTextFile.Rows.Add(dtrow);
+
+            }
+
+            return dtTextFile;
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e) {
+            DataTable dataTable = new DataTable();
+            foreach(string columnName in columnsTitles) {
+                dataTable.Columns.Add(columnName, typeof(string));
+            }
+
+            dataTable = ReadTextFile("phones.txt", 8);
+            for(int i = 0; i < dataTable.Columns.Count; i++) {
+                if(dataTable.Columns.Contains("Column" + (i + 1).ToString())) {
+                    dataTable.Columns["Column" + (i + 1).ToString()].ColumnName = columnsTitles[i];
+                }
+            }
+
+            dtgvPhoneInfo.DataSource = dataTable;
+            dtgvPhoneInfo.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+            dtgvPhoneInfo.ColumnHeadersDefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+        }
+
+        private void lblAddress_Click(object sender, EventArgs e) {
+
+        }
+
+        private void btnInsert_Click(object sender, EventArgs e) {
+            try {
+                string deviceName = cbxDeviceNames.Items[cbxDeviceNames.SelectedIndex].ToString().Trim() + txtDeviceName.Text;
+                string manufactureYear = txtManufactureYear.Text;
+                string color = txtColor.Text;
+                string serieNo = txtSerieNo.Text;
+                string producer = txtProducer.Text;
+                double price = Convert.ToDouble(txtPrice.Text);
+                string address = txtAddress.Text;
+                int contactNumber = Convert.ToInt32(txtContactNumber.Text);
+
+                dataTable.Rows.Add(deviceName, manufactureYear, color, serieNo, producer, price, address, contactNumber);
+
+                dtgvPhoneInfo.DataSource = dataTable;
+            } catch {
+                MessageBox.Show("May be you are missing some info, check again !", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnSort_Click(object sender, EventArgs e) {
+            try {
+                string sortItem = cbxSortItem.Items[cbxSortItem.SelectedIndex].ToString().Trim();
+                string sortOrder = cbxSortOrder.Items[cbxSortOrder.SelectedIndex].ToString().Trim();
+                if(sortItem == "Manufacture Year") {
+                    if(sortOrder == "Ascending") {
+                        DataColumn sortColumn = dataTable.Columns["Manufacture Year"];
+                        int rowCount = dataTable.Rows.Count;
+
+                        for(int i = 0; i < rowCount - 1; i++) {
+                            for(int j = 0; j < rowCount - i - 1; j++) {
+                                int value1 = Convert.ToInt32(dataTable.Rows[j][sortColumn]);
+                                int value2 = Convert.ToInt32(dataTable.Rows[j + 1][sortColumn]);
+
+                                if(value1 > value2) {
+                                    // Hoán đổi dữ liệu giữa hai dòng
+                                    for(int k = 0; k < dataTable.Columns.Count; k++) {
+                                        object temp = dataTable.Rows[j][k];
+                                        dataTable.Rows[j][k] = dataTable.Rows[j + 1][k];
+                                        dataTable.Rows[j + 1][k] = temp;
+                                    }
+                                }
+                            }
+                        }
+                    } else {
+                        DataColumn sortColumn = dataTable.Columns["Manufacture Year"];
+                        int rowCount = dataTable.Rows.Count;
+
+                        for(int i = 0; i < rowCount - 1; i++) {
+                            for(int j = 0; j < rowCount - i - 1; j++) {
+                                int value1 = Convert.ToInt32(dataTable.Rows[j][sortColumn]);
+                                int value2 = Convert.ToInt32(dataTable.Rows[j + 1][sortColumn]);
+
+                                if(value1 < value2) {
+                                    // Hoán đổi dữ liệu giữa hai dòng
+                                    for(int k = 0; k < dataTable.Columns.Count; k++) {
+                                        object temp = dataTable.Rows[j][k];
+                                        dataTable.Rows[j][k] = dataTable.Rows[j + 1][k];
+                                        dataTable.Rows[j + 1][k] = temp;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                } else if(sortItem == "Price") {
+                    if(sortOrder == "Ascending") {
+                        DataColumn sortColumn = dataTable.Columns["Price"];
+                        int rowCount = dataTable.Rows.Count;
+                        F
+                        for(int i = 0; i < rowCount - 1; i++) {
+                            for(int j = 0; j < rowCount - i - 1; j++) {
+                                int value1 = Convert.ToInt32(dataTable.Rows[j][sortColumn]);
+                                int value2 = Convert.ToInt32(dataTable.Rows[j + 1][sortColumn]);
+
+                                if(value1 > value2) {
+                                    // Hoán đổi dữ liệu giữa hai dòng
+                                    for(int k = 0; k < dataTable.Columns.Count; k++) {
+                                        object temp = dataTable.Rows[j][k];
+                                        dataTable.Rows[j][k] = dataTable.Rows[j + 1][k];
+                                        dataTable.Rows[j + 1][k] = temp;
+                                    }
+                                }
+                            }
+                        }
+                    } else {
+                        DataColumn sortColumn = dataTable.Columns["Price"];
+                        int rowCount = dataTable.Rows.Count;
+
+                        for(int i = 0; i < rowCount - 1; i++) {
+                            for(int j = 0; j < rowCount - i - 1; j++) {
+                                int value1 = Convert.ToInt32(dataTable.Rows[j][sortColumn]);
+                                int value2 = Convert.ToInt32(dataTable.Rows[j + 1][sortColumn]);
+
+                                if(value1 < value2) {
+                                    
+                                    for(int k = 0; k < dataTable.Columns.Count; k++) {
+                                        object temp = dataTable.Rows[j][k];
+                                        dataTable.Rows[j][k] = dataTable.Rows[j + 1][k];
+                                        dataTable.Rows[j + 1][k] = temp;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                dtgvPhoneInfo.DataSource = dataTable;
+                dtgvPhoneInfo.Refresh();
+                MessageBox.Show("Sort successfully !", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            } catch {
+                MessageBox.Show("Please surely that you chose enough options to sort !", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e) {
+            try {
+                string searchColumn = cbxSearchItem.Items[cbxSearchItem.SelectedIndex].ToString();
+                string searchInfo = txtSearch.Text;
+
+
+                DataTable searchResult = new DataTable();
+                searchResult = dataTable.Clone();
+                foreach(DataRow row in dataTable.Rows) {
+                    if(row.Field<string>(searchColumn).Contains(searchInfo.ToString())) {
+                        searchResult.ImportRow(row);
+                    }
+                }
+
+                dtgvPhoneInfo.DataSource = searchResult;
+                dtgvPhoneInfo.Refresh();
+
+
+            } catch {
+                MessageBox.Show("Please surely that you chose enough field to search !", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void txtSearch_TextChanged(object sender, EventArgs e) {
+            if(txtSearch.Text == string.Empty) {
+                dtgvPhoneInfo.DataSource = dataTable;
+                dtgvPhoneInfo.Refresh();
+            }
+        }
+
+        private void lblSave_Click(object sender, EventArgs e) {
+            FileStream fs = new FileStream("phones.txt", FileMode.Create, FileAccess.ReadWrite);
+            StreamWriter streamWriter = new StreamWriter(fs);
+            foreach(DataRow row in dataTable.Rows) {
+                foreach(DataColumn col in dataTable.Columns) {
+                    streamWriter.Write(row[col].ToString() + "\t");
+                }
+                streamWriter.WriteLine();
+            }
+            streamWriter.Flush();
+            fs.Close();
+            MessageBox.Show("Saved !", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+    }
+}

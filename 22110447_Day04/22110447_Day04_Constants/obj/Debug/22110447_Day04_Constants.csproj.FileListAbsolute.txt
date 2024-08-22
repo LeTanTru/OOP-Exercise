@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constants\bin\Debug\22110447_Day04_Constants.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constants\bin\Debug\22110447_Day04_Constants.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constants\bin\Debug\22110447_Day04_Constants.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constants\obj\Debug\22110447_Day04_Constants.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constants\obj\Debug\22110447_Day04_Constants.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constants\obj\Debug\22110447_Day04_Constants.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day04_Constants\obj\Debug\22110447_Day04_Constants.pdb

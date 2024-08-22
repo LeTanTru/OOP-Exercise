@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic BitArray\bin\Debug\22110447_Day09_Non-generic BitArray.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic BitArray\bin\Debug\22110447_Day09_Non-generic BitArray.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic BitArray\bin\Debug\22110447_Day09_Non-generic BitArray.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic BitArray\obj\Debug\22110447_Day09_Non-generic BitArray.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic BitArray\obj\Debug\22110447_Day09_Non-generic BitArray.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic BitArray\obj\Debug\22110447_Day09_Non-generic BitArray.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Non-generic BitArray\obj\Debug\22110447_Day09_Non-generic BitArray.pdb

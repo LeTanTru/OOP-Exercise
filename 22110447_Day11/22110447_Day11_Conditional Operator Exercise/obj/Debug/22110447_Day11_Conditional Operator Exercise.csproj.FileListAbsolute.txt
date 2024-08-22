@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator Exercise\bin\Debug\22110447_Day11_Conditional Operator Exercise.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator Exercise\bin\Debug\22110447_Day11_Conditional Operator Exercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator Exercise\bin\Debug\22110447_Day11_Conditional Operator Exercise.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator Exercise\obj\Debug\22110447_Day11_Conditional Operator Exercise.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator Exercise\obj\Debug\22110447_Day11_Conditional Operator Exercise.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator Exercise\obj\Debug\22110447_Day11_Conditional Operator Exercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator Exercise\obj\Debug\22110447_Day11_Conditional Operator Exercise.pdb

@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_SlideEx\bin\Debug\22110447_Day03_SlideEx.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_SlideEx\bin\Debug\22110447_Day03_SlideEx.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_SlideEx\bin\Debug\22110447_Day03_SlideEx.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_SlideEx\obj\Debug\22110447_Day03_SlideEx.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_SlideEx\obj\Debug\22110447_Day03_SlideEx.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_SlideEx\obj\Debug\22110447_Day03_SlideEx.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03_SlideEx\obj\Debug\22110447_Day03_SlideEx.pdb

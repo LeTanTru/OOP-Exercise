@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_ValueVsReference\bin\Debug\22110447_Day02_ValueVsReference.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_ValueVsReference\bin\Debug\22110447_Day02_ValueVsReference.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_ValueVsReference\bin\Debug\22110447_Day02_ValueVsReference.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_ValueVsReference\obj\Debug\22110447_Day02_ValueVsReference.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_ValueVsReference\obj\Debug\22110447_Day02_ValueVsReference.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_ValueVsReference\obj\Debug\22110447_Day02_ValueVsReference.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_ValueVsReference\obj\Debug\22110447_Day02_ValueVsReference.pdb

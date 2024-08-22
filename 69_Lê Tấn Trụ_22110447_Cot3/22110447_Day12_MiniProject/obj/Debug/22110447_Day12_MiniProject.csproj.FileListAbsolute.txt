@@ -1,0 +1,57 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_MiniProject.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_MiniProject.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_MiniProject.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmPhoneShop.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.frmNhanVien.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.frmMain.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_Mini_Project.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_Mini_Project.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_Mini_Project.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.CopyComplete
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmLuongNhanVien.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmBanDienThoai.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmTinhLoiNhuan.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_MiniProject.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_MiniProject.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_MiniProject.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_Mini_Project.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_Mini_Project.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_Mini_Project.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmBanDienThoai.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmLuongNhanVien.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmTinhLoiNhuan.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.frmMain.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.frmNhanVien.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmPhoneShop.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.CopyComplete
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12 - Copy\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_MiniProject.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_MiniProject.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_MiniProject.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_Mini_Project.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_Mini_Project.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\bin\Debug\22110447_Day12_Mini_Project.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmBanDienThoai.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmLuongNhanVien.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmTinhLoiNhuan.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.frmMain.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.frmNhanVien.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Forms.frmPhoneShop.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\_22110447_Day12_MiniProject.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.csproj.CopyComplete
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\69_Lê Tấn Trụ_22110447_Cot3\22110447_Day12_MiniProject\obj\Debug\22110447_Day12_MiniProject.pdb

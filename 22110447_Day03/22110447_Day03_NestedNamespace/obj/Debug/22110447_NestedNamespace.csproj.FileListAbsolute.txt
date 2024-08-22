@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_NestedNamespace\bin\Debug\22110447_NestedNamespace.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_NestedNamespace\bin\Debug\22110447_NestedNamespace.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_NestedNamespace\bin\Debug\22110447_NestedNamespace.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_NestedNamespace\obj\Debug\22110447_NestedNamespace.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_NestedNamespace\obj\Debug\22110447_NestedNamespace.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_NestedNamespace\obj\Debug\22110447_NestedNamespace.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_NestedNamespace\obj\Debug\22110447_NestedNamespace.pdb

@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\ConnectToSql\bin\Debug\ConnectToSql.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\ConnectToSql\bin\Debug\ConnectToSql.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\ConnectToSql\bin\Debug\ConnectToSql.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\ConnectToSql\obj\Debug\ConnectToSql.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\ConnectToSql\obj\Debug\ConnectToSql.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\ConnectToSql\obj\Debug\ConnectToSql.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\ConnectToSql\obj\Debug\ConnectToSql.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\ConnectToSql\obj\Debug\ConnectToSql.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\ConnectToSql\obj\Debug\ConnectToSql.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\ConnectToSql\obj\Debug\ConnectToSql.Form1.resources

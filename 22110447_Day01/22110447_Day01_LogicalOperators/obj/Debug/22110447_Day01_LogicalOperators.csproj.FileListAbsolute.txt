@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_LogicalOperators\bin\Debug\22110447_Day01_LogicalOperators.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_LogicalOperators\bin\Debug\22110447_Day01_LogicalOperators.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_LogicalOperators\bin\Debug\22110447_Day01_LogicalOperators.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_LogicalOperators\obj\Debug\22110447_Day01_LogicalOperators.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_LogicalOperators\obj\Debug\22110447_Day01_LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_LogicalOperators\obj\Debug\22110447_Day01_LogicalOperators.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_LogicalOperators\obj\Debug\22110447_Day01_LogicalOperators.pdb

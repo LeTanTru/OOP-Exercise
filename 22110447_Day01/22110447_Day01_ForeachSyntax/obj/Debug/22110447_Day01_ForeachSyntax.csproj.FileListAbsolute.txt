@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_ForeachSyntax\bin\Debug\22110447_ForeachSyntax.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_ForeachSyntax\bin\Debug\22110447_ForeachSyntax.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_ForeachSyntax\bin\Debug\22110447_ForeachSyntax.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_ForeachSyntax\obj\Debug\22110447_Day01_ForeachSyntax.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_ForeachSyntax\obj\Debug\22110447_Day01_ForeachSyntax.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_ForeachSyntax\obj\Debug\22110447_ForeachSyntax.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_ForeachSyntax\obj\Debug\22110447_ForeachSyntax.pdb

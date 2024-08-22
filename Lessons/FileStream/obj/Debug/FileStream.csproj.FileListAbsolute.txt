@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\FileStream\bin\Debug\FileStream.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\FileStream\bin\Debug\FileStream.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\FileStream\bin\Debug\FileStream.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\FileStream\obj\Debug\FileStream.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\FileStream\obj\Debug\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\FileStream\obj\Debug\FileStream.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\FileStream\obj\Debug\FileStream.pdb

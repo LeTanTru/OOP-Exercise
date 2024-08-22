@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTimeExercise\bin\Debug\22110447_Day03_DateTimeExercise.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTimeExercise\bin\Debug\22110447_Day03_DateTimeExercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTimeExercise\bin\Debug\22110447_Day03_DateTimeExercise.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTimeExercise\obj\Debug\22110447_Day03_DateTimeExercise.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTimeExercise\obj\Debug\22110447_Day03_DateTimeExercise.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTimeExercise\obj\Debug\22110447_Day03_DateTimeExercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTimeExercise\obj\Debug\22110447_Day03_DateTimeExercise.pdb

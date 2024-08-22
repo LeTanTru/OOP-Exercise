@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_ConsoleColors\bin\Debug\22110447_Day08_ConsoleColors.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_ConsoleColors\bin\Debug\22110447_Day08_ConsoleColors.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_ConsoleColors\bin\Debug\22110447_Day08_ConsoleColors.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_ConsoleColors\obj\Debug\22110447_Day08_ConsoleColors.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_ConsoleColors\obj\Debug\22110447_Day08_ConsoleColors.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_ConsoleColors\obj\Debug\22110447_Day08_ConsoleColors.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_ConsoleColors\obj\Debug\22110447_Day08_ConsoleColors.pdb

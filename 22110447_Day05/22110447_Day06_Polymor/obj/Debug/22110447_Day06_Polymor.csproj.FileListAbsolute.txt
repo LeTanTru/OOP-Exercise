@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Polymor\bin\Debug\22110447_Day06_Polymor.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Polymor\bin\Debug\22110447_Day06_Polymor.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Polymor\bin\Debug\22110447_Day06_Polymor.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Polymor\obj\Debug\22110447_Day06_Polymor.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Polymor\obj\Debug\22110447_Day06_Polymor.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Polymor\obj\Debug\22110447_Day06_Polymor.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_Polymor\obj\Debug\22110447_Day06_Polymor.pdb

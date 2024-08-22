@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Extension Method Exercise\bin\Debug\22110447_Day10_Extension Method Exercise.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Extension Method Exercise\bin\Debug\22110447_Day10_Extension Method Exercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Extension Method Exercise\bin\Debug\22110447_Day10_Extension Method Exercise.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Extension Method Exercise\obj\Debug\22110447_Day10_Extension Method Exercise.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Extension Method Exercise\obj\Debug\22110447_Day10_Extension Method Exercise.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Extension Method Exercise\obj\Debug\22110447_Day10_Extension Method Exercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Extension Method Exercise\obj\Debug\22110447_Day10_Extension Method Exercise.pdb

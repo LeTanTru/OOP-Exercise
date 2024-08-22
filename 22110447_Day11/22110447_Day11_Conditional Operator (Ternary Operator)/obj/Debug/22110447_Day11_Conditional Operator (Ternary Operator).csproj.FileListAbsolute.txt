@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator (Ternary Operator)\bin\Debug\22110447_Day11_Conditional Operator (Ternary Operator).exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator (Ternary Operator)\bin\Debug\22110447_Day11_Conditional Operator (Ternary Operator).exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator (Ternary Operator)\bin\Debug\22110447_Day11_Conditional Operator (Ternary Operator).pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator (Ternary Operator)\obj\Debug\22110447_Day11_Conditional Operator (Ternary Operator).csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator (Ternary Operator)\obj\Debug\22110447_Day11_Conditional Operator (Ternary Operator).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator (Ternary Operator)\obj\Debug\22110447_Day11_Conditional Operator (Ternary Operator).exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Conditional Operator (Ternary Operator)\obj\Debug\22110447_Day11_Conditional Operator (Ternary Operator).pdb

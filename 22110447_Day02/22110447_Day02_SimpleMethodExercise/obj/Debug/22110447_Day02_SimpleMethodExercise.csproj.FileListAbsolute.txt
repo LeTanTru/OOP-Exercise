@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_SimpleMethodExercise\bin\Debug\22110447_Day02_SimpleMethodExercise.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_SimpleMethodExercise\bin\Debug\22110447_Day02_SimpleMethodExercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_SimpleMethodExercise\bin\Debug\22110447_Day02_SimpleMethodExercise.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_SimpleMethodExercise\obj\Debug\22110447_Day02_SimpleMethodExercise.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_SimpleMethodExercise\obj\Debug\22110447_Day02_SimpleMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_SimpleMethodExercise\obj\Debug\22110447_Day02_SimpleMethodExercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_SimpleMethodExercise\obj\Debug\22110447_Day02_SimpleMethodExercise.pdb

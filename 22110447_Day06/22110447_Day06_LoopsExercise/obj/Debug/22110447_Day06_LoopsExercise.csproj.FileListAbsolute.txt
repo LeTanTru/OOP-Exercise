@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsExercise\bin\Debug\22110447_Day06_LoopsExercise.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsExercise\bin\Debug\22110447_Day06_LoopsExercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsExercise\bin\Debug\22110447_Day06_LoopsExercise.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsExercise\obj\Debug\22110447_Day06_LoopsExercise.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsExercise\obj\Debug\22110447_Day06_LoopsExercise.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsExercise\obj\Debug\22110447_Day06_LoopsExercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsExercise\obj\Debug\22110447_Day06_LoopsExercise.pdb

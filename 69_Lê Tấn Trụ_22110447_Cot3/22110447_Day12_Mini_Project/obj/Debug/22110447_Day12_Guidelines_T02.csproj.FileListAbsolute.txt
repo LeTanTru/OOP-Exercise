@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\bin\Debug\22110447_Day12_Mini_Project.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\bin\Debug\22110447_Day12_Mini_Project.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\bin\Debug\22110447_Day12_Mini_Project.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\obj\Debug\22110447_Day12_Guidelines_T02.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\obj\Debug\_22110447_Day12_Mini_Project.Form1.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\obj\Debug\_22110447_Day12_Mini_Project.Form2.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\obj\Debug\_22110447_Day12_Mini_Project.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\obj\Debug\22110447_Day12_Guidelines_T02.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\obj\Debug\22110447_Day12_Guidelines_T02.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\obj\Debug\22110447_Day12_Mini_Project.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day12\22110447_Day12_Mini_Project\obj\Debug\22110447_Day12_Mini_Project.pdb

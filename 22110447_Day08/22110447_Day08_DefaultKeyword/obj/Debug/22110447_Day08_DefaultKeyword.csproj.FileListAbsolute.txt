@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DefaultKeyword\bin\Debug\22110447_Day08_DefaultKeyword.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DefaultKeyword\bin\Debug\22110447_Day08_DefaultKeyword.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DefaultKeyword\bin\Debug\22110447_Day08_DefaultKeyword.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DefaultKeyword\obj\Debug\22110447_Day08_DefaultKeyword.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DefaultKeyword\obj\Debug\22110447_Day08_DefaultKeyword.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DefaultKeyword\obj\Debug\22110447_Day08_DefaultKeyword.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day08\22110447_Day08_DefaultKeyword\obj\Debug\22110447_Day08_DefaultKeyword.pdb

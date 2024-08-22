@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_ConditionalStatmentsIF\bin\Debug\22110447_Day01_ConditionalStatmentsIF.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_ConditionalStatmentsIF\bin\Debug\22110447_Day01_ConditionalStatmentsIF.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_ConditionalStatmentsIF\bin\Debug\22110447_Day01_ConditionalStatmentsIF.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_ConditionalStatmentsIF\obj\Debug\22110447_Day01_ConditionalStatmentsIF.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_ConditionalStatmentsIF\obj\Debug\22110447_Day01_ConditionalStatmentsIF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_ConditionalStatmentsIF\obj\Debug\22110447_Day01_ConditionalStatmentsIF.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_ConditionalStatmentsIF\obj\Debug\22110447_Day01_ConditionalStatmentsIF.pdb

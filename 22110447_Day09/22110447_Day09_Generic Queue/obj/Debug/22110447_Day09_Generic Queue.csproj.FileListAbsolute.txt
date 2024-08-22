@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Queue\bin\Debug\22110447_Day09_Generic Queue.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Queue\bin\Debug\22110447_Day09_Generic Queue.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Queue\bin\Debug\22110447_Day09_Generic Queue.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Queue\obj\Debug\22110447_Day09_Generic Queue.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Queue\obj\Debug\22110447_Day09_Generic Queue.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Queue\obj\Debug\22110447_Day09_Generic Queue.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_Generic Queue\obj\Debug\22110447_Day09_Generic Queue.pdb

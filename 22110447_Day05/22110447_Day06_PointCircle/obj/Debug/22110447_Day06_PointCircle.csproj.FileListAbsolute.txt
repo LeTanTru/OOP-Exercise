@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_PointCircle\bin\Debug\22110447_Day06_PointCircle.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_PointCircle\bin\Debug\22110447_Day06_PointCircle.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_PointCircle\bin\Debug\22110447_Day06_PointCircle.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_PointCircle\obj\Debug\22110447_Day06_PointCircle.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_PointCircle\obj\Debug\_22110447_Day06_PointCircle.Form1.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_PointCircle\obj\Debug\22110447_Day06_PointCircle.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_PointCircle\obj\Debug\22110447_Day06_PointCircle.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_PointCircle\obj\Debug\22110447_Day06_PointCircle.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day06_PointCircle\obj\Debug\22110447_Day06_PointCircle.pdb

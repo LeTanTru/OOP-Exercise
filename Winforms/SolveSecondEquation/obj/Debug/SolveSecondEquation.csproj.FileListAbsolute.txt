@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\SolveSecondEquation\obj\Debug\SolveSecondEquation.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\SolveSecondEquation\obj\Debug\SolveSecondEquation.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\SolveSecondEquation\obj\Debug\SolveSecondEquation.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\SolveSecondEquation\obj\Debug\SolveSecondEquation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\SolveSecondEquation\obj\Debug\SolveSecondEquation.Form1.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\SolveSecondEquation\bin\Debug\SolveSecondEquation.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\SolveSecondEquation\bin\Debug\SolveSecondEquation.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\SolveSecondEquation\bin\Debug\SolveSecondEquation.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\SolveSecondEquation\obj\Debug\SolveSecondEquation.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\SolveSecondEquation\obj\Debug\SolveSecondEquation.pdb

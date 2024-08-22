@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegates VS Method Calls\bin\Debug\22110447_Day10_Delegates VS Method Calls.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegates VS Method Calls\bin\Debug\22110447_Day10_Delegates VS Method Calls.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegates VS Method Calls\bin\Debug\22110447_Day10_Delegates VS Method Calls.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegates VS Method Calls\obj\Debug\22110447_Day10_Delegates VS Method Calls.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegates VS Method Calls\obj\Debug\22110447_Day10_Delegates VS Method Calls.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegates VS Method Calls\obj\Debug\22110447_Day10_Delegates VS Method Calls.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day10\22110447_Day10\22110447_Day10_Delegates VS Method Calls\obj\Debug\22110447_Day10_Delegates VS Method Calls.pdb

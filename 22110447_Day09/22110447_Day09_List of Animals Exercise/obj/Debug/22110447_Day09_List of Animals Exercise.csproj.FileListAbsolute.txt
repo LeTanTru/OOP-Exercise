@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_List of Animals Exercise\bin\Debug\22110447_Day09_List of Animals Exercise.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_List of Animals Exercise\bin\Debug\22110447_Day09_List of Animals Exercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_List of Animals Exercise\bin\Debug\22110447_Day09_List of Animals Exercise.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_List of Animals Exercise\obj\Debug\22110447_Day09_List of Animals Exercise.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_List of Animals Exercise\obj\Debug\22110447_Day09_List of Animals Exercise.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_List of Animals Exercise\obj\Debug\22110447_Day09_List of Animals Exercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day09\22110447_Day09_List of Animals Exercise\obj\Debug\22110447_Day09_List of Animals Exercise.pdb

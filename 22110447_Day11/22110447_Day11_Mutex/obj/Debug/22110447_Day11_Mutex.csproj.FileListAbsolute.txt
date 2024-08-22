@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Mutex\bin\Debug\22110447_Day11_Mutex.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Mutex\bin\Debug\22110447_Day11_Mutex.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Mutex\bin\Debug\22110447_Day11_Mutex.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Mutex\obj\Debug\22110447_Day11_Mutex.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Mutex\obj\Debug\22110447_Day11_Mutex.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Mutex\obj\Debug\22110447_Day11_Mutex.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_Mutex\obj\Debug\22110447_Day11_Mutex.pdb

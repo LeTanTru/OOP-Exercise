@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_CastingandTypeConversion\bin\Debug\22110447_Day03_CastingandTypeConversion.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_CastingandTypeConversion\bin\Debug\22110447_Day03_CastingandTypeConversion.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_CastingandTypeConversion\bin\Debug\22110447_Day03_CastingandTypeConversion.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_CastingandTypeConversion\obj\Debug\22110447_Day03_CastingandTypeConversion.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_CastingandTypeConversion\obj\Debug\22110447_Day03_CastingandTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_CastingandTypeConversion\obj\Debug\22110447_Day03_CastingandTypeConversion.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_CastingandTypeConversion\obj\Debug\22110447_Day03_CastingandTypeConversion.pdb

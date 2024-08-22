@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_CarExercise\bin\Debug\22110447_Day02_CarExercise.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_CarExercise\bin\Debug\22110447_Day02_CarExercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_CarExercise\bin\Debug\22110447_Day02_CarExercise.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_CarExercise\obj\Debug\22110447_Day02_CarExercise.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_CarExercise\obj\Debug\22110447_Day02_CarExercise.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_CarExercise\obj\Debug\22110447_Day02_CarExercise.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_CarExercise\obj\Debug\22110447_Day02_CarExercise.pdb

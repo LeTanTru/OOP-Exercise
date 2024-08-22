@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\bin\Debug\22110447_Day05_ThuaKe_Console.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\bin\Debug\22110447_Day05_ThuaKe_Console.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\bin\Debug\22110447_Day05_ThuaKe_Console.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\bin\Debug\22110447_Day05_HinhHoc.dll
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\bin\Debug\22110447_Day05_HinhHoc.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\obj\Debug\22110447_Day06_ThuaKe_Console.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\obj\Debug\_22110447_Day05_ThuaKe_Console.Form1.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\obj\Debug\22110447_Day06_ThuaKe_Console.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\obj\Debug\22110447_Day06_ThuaKe_Console.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\obj\Debug\22110447_Day06_ThuaKe_Console.csproj.CopyComplete
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\obj\Debug\22110447_Day05_ThuaKe_Console.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day05\22110447_Day05_ThuaKe_Console\obj\Debug\22110447_Day05_ThuaKe_Console.pdb

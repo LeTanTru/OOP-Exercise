@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FormatText\bin\Debug\FormatText.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FormatText\bin\Debug\FormatText.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FormatText\bin\Debug\FormatText.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FormatText\obj\Debug\FormatText.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FormatText\obj\Debug\FormatText.Form1.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FormatText\obj\Debug\FormatText.Properties.Resources.resources
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FormatText\obj\Debug\FormatText.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FormatText\obj\Debug\FormatText.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FormatText\obj\Debug\FormatText.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\Winforms\FormatText\obj\Debug\FormatText.pdb

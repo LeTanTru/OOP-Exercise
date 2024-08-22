@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_RefAndOut\bin\Debug\22110447_Day02_RefAndOut.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_RefAndOut\bin\Debug\22110447_Day02_RefAndOut.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_RefAndOut\bin\Debug\22110447_Day02_RefAndOut.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_RefAndOut\obj\Debug\22110447_Day02_RefAndOut.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_RefAndOut\obj\Debug\22110447_Day02_RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_RefAndOut\obj\Debug\22110447_Day02_RefAndOut.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day02\22110447_Day02_RefAndOut\obj\Debug\22110447_Day02_RefAndOut.pdb

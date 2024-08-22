@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_TimeSpan\bin\Debug\22110447_Day11_TimeSpan.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_TimeSpan\bin\Debug\22110447_Day11_TimeSpan.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_TimeSpan\bin\Debug\22110447_Day11_TimeSpan.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_TimeSpan\obj\Debug\22110447_Day11_TimeSpan.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_TimeSpan\obj\Debug\22110447_Day11_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_TimeSpan\obj\Debug\22110447_Day11_TimeSpan.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day11\22110447_Day11_TimeSpan\obj\Debug\22110447_Day11_TimeSpan.pdb

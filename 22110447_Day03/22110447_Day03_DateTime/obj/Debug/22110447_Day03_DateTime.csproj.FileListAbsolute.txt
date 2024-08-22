@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTime\bin\Debug\22110447_Day03_DateTime.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTime\bin\Debug\22110447_Day03_DateTime.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTime\bin\Debug\22110447_Day03_DateTime.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTime\obj\Debug\22110447_Day03_DateTime.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTime\obj\Debug\22110447_Day03_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTime\obj\Debug\22110447_Day03_DateTime.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day03\22110447_Day03_DateTime\obj\Debug\22110447_Day03_DateTime.pdb

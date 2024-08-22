@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_PrecedenceOperators\bin\Debug\22110447_Day01_PrecedenceOperators.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_PrecedenceOperators\bin\Debug\22110447_Day01_PrecedenceOperators.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_PrecedenceOperators\bin\Debug\22110447_Day01_PrecedenceOperators.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_PrecedenceOperators\obj\Debug\22110447_Day01_PrecedenceOperators.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_PrecedenceOperators\obj\Debug\22110447_Day01_PrecedenceOperators.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_PrecedenceOperators\obj\Debug\22110447_Day01_PrecedenceOperators.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day01_PrecedenceOperators\obj\Debug\22110447_Day01_PrecedenceOperators.pdb

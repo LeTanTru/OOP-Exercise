@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsPart03\bin\Debug\22110447_Day06_LoopsPart03.exe.config
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsPart03\bin\Debug\22110447_Day06_LoopsPart03.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsPart03\bin\Debug\22110447_Day06_LoopsPart03.pdb
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsPart03\obj\Debug\22110447_Day06_LoopsPart03.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsPart03\obj\Debug\22110447_Day06_LoopsPart03.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsPart03\obj\Debug\22110447_Day06_LoopsPart03.exe
+C:\Users\ADMIN\Documents\CODE\Languages Learning\C#\22110447_Day06\22110447_Day06_LoopsPart03\obj\Debug\22110447_Day06_LoopsPart03.pdb
